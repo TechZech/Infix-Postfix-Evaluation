@@ -1,6 +1,6 @@
 /*              STACK.HPP
-        Ben Zech        Assignment 3
-        Bob Myers       Due: Thursday, October 22nd 11:59pm
+        Ben Zech        10/22/2020
+        All work below was written by Benjamin Zech. Do not steal
 */
 
 // Private data used for Stack
